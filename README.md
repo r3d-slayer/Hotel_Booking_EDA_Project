@@ -34,11 +34,7 @@ This analysis was conducted using Python in a Jupyter Notebook environment. The 
 
 The analysis relies on a variety of visualizations to extract insights from the dataset. The key charts created include:
 
-* **Distribution of Bookings:** Count plots to compare bookings between City and Resort hotels.
-* **Seasonal Booking Trends:** Line charts to identify peak and off-peak booking months.
-* **Cancellation Rate Analysis:** Bar charts to visualize cancellation rates by hotel type.
-* **Guest Origin:** Bar charts to display the top 10 countries with the most bookings.
-* **Market Segment Distribution:** Pie charts to understand the proportion of bookings from various segments like Online TA, Offline TA/TO, and Direct.
+
 
 ---
 
@@ -68,31 +64,7 @@ Make sure you have Python and Jupyter Notebook installed on your system.
     ```
 5.  Open the `hotel-booking-eda-project.ipynb` file and run the cells to see the analysis.
 
----
 
-## 📈 Key Insights from the Analysis
-
-### 1. City Hotels Dominate Bookings
-The analysis revealed that **City Hotels have a significantly higher number of bookings** compared to Resort Hotels, accounting for over 66% of the total.
-![Bookings by Hotel Type](./images/bookings_by_hotel_type.png)
-
-### 2. Summer is the Peak Season
-Booking demand fluctuates significantly throughout the year. The busiest month is **August**, followed closely by July, while the quietest period is during the winter.
-![Bookings per Month](./images/bookings_per_month.png)
-
-### 3. High Cancellation Rate is a Major Concern
-A substantial portion of bookings are canceled, with an overall cancellation rate of approximately **37%**. Addressing this is critical for improving revenue.
-![Cancellation Rate](./images/cancellation_rate.png)
-
-### 4. Majority of Guests are from Europe
-Most guests come from Europe, with **Portugal** being the top country of origin, indicating a key market for targeted marketing.
-![Top 10 Countries by Bookings](./images/top_10_countries.png)
-
-### 5. Online Travel Agents are the Primary Booking Channel
-The **Online Travel Agents (Online TA)** segment is the largest source of bookings by a wide margin, highlighting the importance of a strong online presence.
-![Market Segment Distribution](./images/market_segment_distribution.png)
-
----
 
 ## ✨ Conclusion
 
