@@ -52,11 +52,11 @@ Make sure you have Python and Jupyter Notebook installed on your system.
 ### Installation
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/hotel-booking-analysis.git](https://github.com/your-username/hotel-booking-analysis.git)
+    git clone [https://github.com/r3d-slayer/hotel_booking_eda_project.git](https://github.com/r3d-slayer/hotel_booking_eda_project.git)
     ```
 2.  **Navigate to the project directory:**
     ```sh
-    cd hotel-booking-analysis
+    cd hotel_booking_eda_project
     ```
 3.  **Install the required libraries:**
     ```sh
@@ -107,9 +107,9 @@ The analysis provides several actionable insights for hotel management:
 
 ## ✒️ Author
 
-**[Your Name]**
-- **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-- **LinkedIn:** [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
-- **Email:** [youremail@example.com](mailto:youremail@example.com)
+**Shivam Tanwar**
 
-**Project Link:** [https://github.com/your-username/hotel-booking-analysis](https://github.com/your-username/hotel-booking-analysis)
+- **LinkedIn:** [linkedin.com/in/shivam-tanwar](www.linkedin.com/in/shivam-tanwar-693547331)
+- **Email:** [tanwarshivam49@gmail.com](mailto:tanwarshivam49@gmail.com)
+
+**Project Link:** [https://github.com/r3d-slayer/hotel_booking_eda_project](https://github.com/r3d-slayer/hotel_booking_eda_project)
