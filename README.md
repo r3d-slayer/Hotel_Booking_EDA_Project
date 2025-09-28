@@ -83,7 +83,7 @@ The analysis provides several actionable insights for hotel management:
 * **Focus on City Hotels:** As the primary driver of bookings, strategies to optimize pricing and reduce cancellations should be focused on city hotels.
 * **Implement Seasonal Strategies:** Marketing campaigns and staffing levels should be adjusted to match peak (Summer) and off-peak (Winter) seasons.
 * **Reduce Cancellations:** With a cancellation rate of nearly 37%, implementing strategies like non-refundable offers or improved guest communication is critical.
-* **Leverage Online Channels:** Maintaining high visibility and strong relationships with Online TAs is essential for attracting guests.
+* **Optimize the Waiting List:** Bookings that spend any amount of time on the waiting list have an extremely high cancellation rate. This process should be reviewed to confirm bookings faster.
 
 ---
 
