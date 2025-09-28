@@ -33,7 +33,7 @@ This analysis was conducted using Python in a Jupyter Notebook environment. The 
 ## 📊 Visualizations
 
 The analysis relies on a variety of visualizations to extract insights from the dataset. The key charts created include:
-./images/reservation-status.png
+ <img src="./images/reservation-status.png">
 
 
 ---
