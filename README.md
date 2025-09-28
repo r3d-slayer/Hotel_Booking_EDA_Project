@@ -33,7 +33,17 @@ This analysis was conducted using Python in a Jupyter Notebook environment. The 
 ## 📊 Visualizations
 
 The analysis relies on a variety of visualizations to extract insights from the dataset. The key charts created include:
- <img src="./images/reservation-status.png">
+
+
+<img src="./images/reservation-status.png">
+<img src="./images/cancellation-status.png">
+<img src="./images/cancellation-status-in-different-hotels.png">
+<img src="./images/average-daily-rate.png">
+<img src="./images/reservation-per-month.png">
+<img src="./images/adr-per-month.png">
+<img src="./images/countries-cancellation.png">
+<img src="./images/adr-cancellation-16-17.png">
+<img src="./images/waitinglist-cancellation.png">
 
 
 ---
